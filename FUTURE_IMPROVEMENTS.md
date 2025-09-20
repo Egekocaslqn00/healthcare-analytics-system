@@ -1,0 +1,1 @@
+# Future Improvements\n\n- Integration with real-time health monitoring APIs\n- Implementation of more advanced ensemble models (XGBoost, LightGBM)\n- Mobile application for patient self-tracking\n- Multi-language support for the dashboard
