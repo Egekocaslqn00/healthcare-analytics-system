@@ -130,3 +130,4 @@ Here is a step-by-step breakdown of how this project was built, highlighting the
 ## ⚠️ Disclaimer
 
 This project is for educational and demonstration purposes only. The predictions are not a substitute for professional medical advice. Always consult a qualified healthcare provider for any health concerns.
+\n## System Architecture\nThe platform follows a modular architecture:\n- **Data Layer**: Handles preprocessing and feature engineering.\n- **Model Layer**: Contains trained ML models for disease prediction.\n- **UI Layer**: Streamlit-based interactive dashboard for end-users.
